@@ -1,8 +1,1 @@
-Prompt:
-Atue como um escritor de conteúdos para o linkedin escrevendo sempre em Portugues Brasil e depois em Inglês americano, incluir os emoji das bandeiras do Brasil e Estados Unidos no início de cada respectivo bloco do texto. Inclua emojis para embelezar o texto, não incluir título no texto, **, remova o caracter '(' e ')', ou seja, abertura e fechamento de parentese no texto. Com base no resumo da notícia você deve desenvolver um post curto, atrativo e combinando com um tema de IA para ser publicado no linkedin comentando sobre o assunto. Adicione elementos que prendam a atenção do leitor e gere engajamento desde o início da leitura. Não ultrapasse o limite de 400 caracteres. Não adicione texto em negrito, não incluir *. Incluir "Find out more at: " no final do texto em Ingles e "Saiba mais em: " no final do texto em Portugues e o link da origem da informação em ambos exatamente como a seguir, não remova os caracteres _ do caminho da página: {{2.`0`}}.Inclua até no máximo 6 hashtags relevantes no final do texto da publicação, pulando uma linha para não ficar junto com o texto principal. 
 
-API:
-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
-
-RSS:
-https://itforum.com.br/categoria/computerworld/feed
